@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">GoMysuru</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User name</string>
+    <string name="nav_header_subtitle">anymail@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search">Search</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_places">Locations</string>
+    <string name="menu_hotels">Hotels</string>
+    <string name="menu_contact">Important Contacts</string>
+
+
+    <string name="topic1">Destinations </string>
+    <string name="topic2">Places Nearby</string>
+    <string name="topic3">Tour Guides</string>
+    <string name="topic4">Art and Culture</string>
+    <string name="topic5">Festivals</string>
+    <string name="topic6">Cuisines</string>
+
+    <string name="topic7">Recreation</string>
+    <!--DESTINATOIINS-->
+    <string name="d_title1">Mysore Palace </string>
+    <string name="d_title2">Kishkindha Moolika Bonsai Garden</string>
+    <string name="d_title3">Sri Chamarajendra Zoological Gardens</string>
+
+    <string name="destination1">Mysore Palace is easily one of the most imposing architectural buildings in the country.  The palace was only built in the 20th century and is the fourth structure to be constructed on the same location.
+
+Also known as Amba Vilas Palace, it is one of the seven palaces in the City of Palaces. Often mistaken for a Gothic structure, the Palace is, in fact, an exemplary showcase of Indo-Saracenic architecture with a blend of Gothic, Rajput, Hindu and Muslim styles and it is one of the famous places to visit in Mysore.
+
+There are four awe-inspiring arched gates to enter the massive garden area that engulfs the Palace. Some of the important places to visit here are the Ambavilasa, the Durbar Hall, and the Royal Howdah. The Palace is a spectacle come every evening when it is lit with approximately 97,000 lights.
+ </string>
+    <string name="destination2">One of the most famous gardens in Mysore, the Kishkindha Moolika Bonsai Garden has been made popular through the many varieties of bonsai plants that it houses. Regarded as one of the most peaceful places to visit in Mysore, the garden is a very popular spot for families traveling with children as it offers an extensive educational opportunity for kids to know about the many bonsai plant species.
+        Established by HH Dr. Sri Ganapathy Sachchidananda Swamiji, the garden is spread across 4 acres of unbelievable natural beauty and approximately 100 species of bonsai trees.
+</string>
+    <string name="destionation3">Treat the animal lover in you, visit Sri Chamarajendra Zoological Gardens at Mysore. Popularly known as Mysore zoo.It,s a popular educational trip location.Mysore zoo is an offbeat and enthralling destination that can engage you for an entire day.</string>
+
+
+    <!--ART PORTION-->
+    <string name="art1">As you take a tour through the city of palaces, also visit Tourist Places near Mysore like the birth place of Cauvery River, one of the most popular rivers of South India. Amidst the soft and serene landscapes enjoy not just sightseeing and birdwatching but also take time and visit the temples in and around this place.
+
+Talakad, popularly known for the origin of Cauvery River is also a home for great architectural and historical temples. It is suree to enthral you with its scenic and historic beauty
+ </string>
+    <string name="art2">Treat the animal lover in you, visit Sri Chamarajendra Zoological Gardens at Mysore. Popularly known as Mysore zoo.It,s a popular educational trip location.Mysore zoo is an offbeat and enthralling destination that can engage you for an entire day.</string>
+    <string name="art3">Dedicated to music, Melody World Wax Museum is one of the most delightful Mysore Tourist Places to visit for lovers of music. Located inside a heritage building, the Museum has been in existence since 2010 and boasts over 300 musical instruments from the country as well as the rest of the world.
+
+Reportedly, the collection is the largest of its kind in Karnataka. Walking through the 19 galleries in the museum, you will come face to face with approximately one hundred life-like wax effigies of prominent musicians, each honouring a special genre of music.
+</string>
+    <!--CUISINES-->
+    <string name="cuisine1">One of the most iconic sweets to emerge from Karnataka, Mysore pak goes back to the royal kitchens of Mysore. The most popular story about the origin of the Mysore pak goes back to the reign of Krishna Raja Wadiyar IV (late 19th to early 20th century) whose royal cook Kakasura Madappa rustled up a sweet from gram flour, sugar and ghee for a royal event. Asked by the king what it was, he is supposed to have said Mysore Pak (pak or paka referring to something sweet in both Kannada and Sanskrit). Another version says the king asked him to create something so delectable that would fit the majesty of Mysore and he came up with it. Story notwithstanding the sweet is aromatic, rich and textured such that melts in the mouth and leaves you yearning for more. The best place to buy/eat the sweet is at Guru Sweet Mart on Sayyaji Road owned by the great-great-grandchildren of Kakasura Madappa himself.</string>
+    <string name="cuisine2">Gorging on mutton pulao, for breakfast is not everybody’s cup of tea, but that’s till you have tasted the dish at the iconic Hanumanthu Mess (also referred to as hotel) in Mandi Mohalla one of Mysore’s endearing neighbourhood</string>
+    <string name="cuisine3">Mysore has a rather compulsive penchant for prefixing itself in front of dishes, an assertion that even the most ubiquitous dish has a certain twist here. It’s no surprise then that there is Mysore masala dosa.</string>
+    <string name="cuisine4">Unlike other items that come with the Mysore prefix, there’s nothing very unique or different in the coffee served in Mysore except for the ‘by-two’ concept and that it has to be the filter variety. No new fangled instant coffee will make the cut here. Mysoreans believe coffee is the time for meeting and sharing and hence the evolution of the by-two coffee. But having said that, there are places where you can relish the brew. Needless to say, it has to be frothy, aromatic, steaming and served in stainless cup and dabara combination for the best experience. You can head to the restaurant inside Hotel Siddhartha in Nazarbad for possibly the best coffee in town. And for a really old world feel to coffee time, the place to be is Hotel Dasaprakash where the décor, furniture and ambience are from another era that bring into mind, snatches from RK Narayan’s creations. </string>
+
+    <!--FESTIVALS-->
+    <string name="fest4">Mysore Dasara is the Nadahabba of the state of Karnataka in India. It is a 10-day festival, starting with nine nights called Navaratri and the last day being Vijayadashami. </string>
+    <string name="fest2">Also known as the ‘diamond crown’ festival, for the bejewelled crown that is on the idol of Lord Cheluvarayaswamy, this is a splendid festival where temples are decorated with candles and lamps and devotees from all over come here.</string>
+    <string name="fest3">The new year for Kannadigas is called Ugadi and is celebrated with a lot of enthusiasm in Mysore. It’s considered to be an auspicious day for new beginnings. As part of the celebrations, homes are cleaned and colourful rangolis adorn house entrances.</string>
+    <string name="fest1">Close on the heels of Dasara is the Mysuru Winter Festival, a 10-day long event featuring a flower show at the Mysore Palace. There are performances by various artists and children too get to enjoy the festivities in a separate Children’s Festival.</string>
+
+    <!--Hotels Fragment-->
+    <string name="hotel1">1.ROYAL ORCHID METROPOLE</string>
+    <string name="hotel2">2.QUORAM</string>
+    <string name="hotel3">3.LALITA</string>
+    <string name="hotel4">4.LE RUCHI PRINCE</string>
+
+    <!--Places Fragment -->
+    <string name="place1">Locate Mysore Palace</string>
+    <string name="place2">Locate Kishkindha Moolik Bonsai Garden</string>
+    <string name="place3">Locate Chamararajendra Zoological Garden</string>
+    <string name="place4">Locate Brindaban Garden</string>
+    <string name="place5">Locate Saint Philomena Church</string>
+    <string name="place6">Locate Jag Mohan Gallery</string>
+    <string name="place7">Locate Folklore Museum</string>
+    <string name="place8">Locate Varashwamy</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_weather">Weather</string>
+
+    <!--CONTACTS Fragments-->
+    <string name="policet">Police</string>
+    <string name="ambulancet">Ambulance</string>
+    <string name="firet">Fire Extinguisher</string>
+
+    <string name="police">100</string>
+    <string name="ambulance">102</string>
+    <string name="fire">101</string>
+    <string name="more_contact">More Important Contacts</string>
+
+    <!--WEATHERFragments-->
+    <string name="weather_month1">JANUARY</string>
+    <string name="weather_month2">FEBRUARY</string>
+    <string name="weather_month3">MARCH</string>
+    <string name="weather_month4">APRIL</string>
+    <string name="weather_month5">MAY</string>
+    <string name="weather_month6">JUNE</string>
+    <string name="weather_month7">JULY</string>
+    <string name="weather_month8">AUGUST</string>
+    <string name="weather_month9">SEPTEMBER</string>
+    <string name="weather_month10">OCTOBER</string>
+    <string name="weather_month11">NOVEMBER</string>
+    <string name="weather_month12">DECEMBER</string>
+
+    <string name="weather_month_des1">The winters in south Karnataka, especially Mysuru, are pleasant with optimal temperatures. The cultural capital of Karnataka receives very little to no rains during in January. The mornings are cold and the day time temperatures stay below 30°C for the most part of the month. The mean minimum temperature of Mysuru in January is 16.3°C.</string>
+    <string name="weather_month_des2">February is also a pleasant month in Mysuru, with temperatures ranging from 17°C to 31°C. Normally, Mysuru does not witness any rainfall this month. February marks the end of the winter in Mysuru and the temperatures gradually rise as the month progresses. This year, the maximum temperatures went up from 27°C in the beginning to 32°C during the end of the month</string>
+    <string name="weather_month_des3">March marks the onset of summer with temperatures crossing 35°C repeatedly. This year, Mysuru recorded the highest ever March temperature of 38°C on March 7. The mean maximum temperature for March is 33.3°C while the mean minimum temperature is 19.4°C. Possibilities of rainfall increases in March and the city witnesses nearly 10 mm of rainfall on an average.</string>
+    <string name="weather_month_des4">April is the hottest month in Mysore with the mean maximum temperature rising to 34.2°C. The mean minimum temperature also rises to 20.9°C. Mysuru, on an average, receives a substantial rainfall of 70 mm in April and nearly four days of the month are rainy. As the month marks the holiday season in Karnataka, the domestic tourists count usually spikes during this month.</string>
+    <string name="weather_month_des5">Persistent pre-monsoon rainfall brings down the day-time temperatures in Mysuru during May. The mean maximum temperature comes down to March levels at 33.4°C while the mean minimum temperature rises slightly to 21°C. A substantial average rainfall of around 115 mm has been observed in May—more than the four monsoon months.</string>
+    <string name="weather_month_des6">June marks the beginning of monsoon and the monsoon winds cool down the sandalwood city drastically in June after sultry summer months. The temperatures stay within a range of 20°C to 30°C throughout the month. Rainfall recorded over the city during June, 74 mm, is lesser than most other parts of south Karnataka.</string>
+    <string name="weather_month_des7">The mean maximum temperature in Mysuru during July is 28.5°C. The mean minimum temperature is 19.6°C. Despite June being the peak monsoon season across India, it is only the fifth wettest month for Mysuru with an average rainfall of 80 mm.</string>
+    <string name="weather_month_des8">Weather in August remains very similar to that of July. The mean minimum and maximum temperatures over Mysuru are 19.6°C and 28.3°C respectively. On an average, 88.4 mm rainfall has been recorded over the city. In 2018, however, torrential downpour swept the city during August as the neighbouring Coorg region witnessed a huge flood.</string>
+    <string name="weather_month_des9">As the mean maximum temperature rises to 29.4°C, the mean minimum temperature stays at 19.6°C. Over 110 mm of rainfall is recorded on an average across the Mysuru city during September making it the wettest southwest monsoon month for Mysuru.</string>
+    <string name="weather_month_des10">The Mysuru Dasara, state-festival of Karnataka is commonly celebrated in October. It is the wettest month for Mysuru due to northeast monsoon rainfall. While other rainy months record average rainfall around 70 -110 mm, October’s average is 184.5 mm. The mean maximumm temperature during October is 29.1°C and the mean minimum temperature is 19.7°C.</string>
+    <string name="weather_month_des11">Though Mysuru witnesses some northeast monsoon rainfall in November, the overall average is less than 65 mm. The temperatures usually stay within a range of 18.6°C to 28.5°C. The average number of rainy days in November also comes down to 4.3 from 8.8 in October.</string>
+    <string name="weather_month_des12">Even tough the average maximum temperature 29°C in Mysuru during the month of December. As the winter grips, the mean minimum temperature drops to 16.8°C. Very light rainfall of around 16 mm rainfall can be expected during December.</string>
+
+    <!--TOUR GUIDES-->
+    <string name="tg_1">Tour Operators</string>
+    <string name="tg_2">Packages</string>
+    <string name="tg_3">Cabs</string>
+    <string name="tg_4">Railways</string>
+    <string name="tg_5">Airways</string>
+    <string name="tg_6">Consulates</string>
+    <string name="tg_7">Common Phrases</string>
+    <string name="menu_about">About</string>
+    <string name="yoga">Yoga</string>
+    <string name="trekking">Trekking</string>
+    <string name="outdoor_games">Outdoor Games</string>
+    <string name="skydiving">Skydiving</string>
+    <string name="boating">Boating</string>
+
+</resources>
